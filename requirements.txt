@@ -1,0 +1,7 @@
+requests
+websockets
+solana
+base58
+pandas
+psycopg2
+python-dotenv
