@@ -3,5 +3,5 @@ websockets
 solana
 base58
 pandas
-psycopg2
+psycopg2-binary
 python-dotenv
